@@ -69,7 +69,7 @@ Será el centro de toda la colaboración.
 ## 📩 ¿Quieres unirte?
 ¡Nos encantará tenerte en el equipo! Para recibir la invitación al Discord o pedir más información, envíame un correo dando clic aquí:
 
-[![Enviar correo](https://img.shields.io/badge/Contacto-Enviar%20Correo-blue?style=for-the-badge&logo=gmail)](mailto:contacto@canaldev.com.mx)
+[![Enviar correo](https://img.shields.io/badge/Contacto-Enviar%20Correo-blue?style=for-the-badge&logo=gmail)](mailto:contacto@canaldev.com.mx?subject=Solicitud%20de%20Colaboración)
 
 ---
 
